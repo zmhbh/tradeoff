@@ -1,3 +1,15 @@
+# Everyone's Tasks (All should be finished by Tuesday midnight for debugging's sake)
+
+Backend Side:
++ Si Wang: change the parser (look at the original json format on IBM's tradeoff)
++ Yin Lin: integrate the parser backend with tradeoff backend (tradeoff is using pure servelet)
++ Jingyu Huang: Think about a way to categorize keywords, (etc. increased lost, decreased income can be categorized as financial), re-construct the return value of first API (allkey API in server backend), if any question, ask Yin or Si.
+
+Frontend Side:
++ Yichen Liu: change the way select values(keywords) behave. (don't think current one is a good way) 
++ Hao Ni: Add some loading effects when it is calling parser backend and change from JSON to JSONP when Yin finishs.
+
+
 # Tradeoff Analytics Java Starter Application
 
   The IBM Watson [Tradeoff Analytics][service_url] service helps you make
